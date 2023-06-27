@@ -12,7 +12,7 @@ const nextConfig = {
             ...config.experiments,
             topLevelAwait: true,
         }
-        return config
+        return config;
     }
 }
 
