@@ -3,7 +3,7 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 export const metadata = {
   title: "Prompt Paradise",
-  description: "Discover & Share AI Prompts",
+  description: "Find & Share AI Prompts",
 };
 
 const RootLayout = ({ children }) => {
